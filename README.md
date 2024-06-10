@@ -1,7 +1,7 @@
 # spike-prime-2024
 Spike Prime 2024 Code
 ```
-Spike Prime 2024 Copyright (C) 2024  linux649, Godofwar55
+spike-prime-2024 (Techtonic Taniwha) Copyright (C) 2024  linux649, Godofwar55
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
